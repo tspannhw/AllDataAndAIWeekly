@@ -26,6 +26,9 @@ https://github.com/tspannhw/FLiPStackWeekly
 
 ### List
 
+* 225: 19-Jan-2026:   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-225-19-jan-2026-59di  https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/225-19Jan2026.md
+
+  
 * 224: 12-Jan-2026:   https://github.com/tspannhw/AllDataAndAIWeekly/edit/main/2026/224-12Jan2026.md   https://medium.com/@tspann/all-data-and-ai-weekly-224-12-jan-2026-720d380b18a6    https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-224-12-jan-2026-1c99   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-224-12-jan-2026?showSharer=true   https://www.linkedin.com/pulse/all-data-ai-weekly-224-12-jan-2026-tim-spann-bdhbe
 
   
