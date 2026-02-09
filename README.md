@@ -12,6 +12,8 @@ https://github.com/tspannhw/FLiPStackWeekly
 
 ### List
 
+* 228: 09-Feb-2026:   https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/228-09Feb2026.md   https://medium.com/@tspann/all-data-and-ai-weekly-228-09-feb-2026-1a85d078be55   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-228-09-feb?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://www.linkedin.com/pulse/all-data-ai-weekly-228-09-feb-2026-tim-spann-a6ice   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-228-09-feb-2026?showSharer=true  
+  
 * 227: 02-Feb-2026:   https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/227-02Feb2026.md  https://medium.com/@tspann/all-data-and-ai-weekly-227-02-feb-2026-f82f0446015a?postPublishedType=initial   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-227-02-feb-2026-3fnn   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-227-02-feb-2026?showSharer=true  https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-227-02-feb-2026?showSharer=true   https://www.linkedin.com/pulse/all-data-ai-weekly-227-02-feb-2026-tim-spann-cacce  
   
 * 226: 26-Jan-2026:   https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/226-26Jan2026.md
