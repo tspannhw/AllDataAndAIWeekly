@@ -10,8 +10,8 @@ https://github.com/tspannhw/FLiPStackWeekly
 
 ### 2026
 
-### List
-* 234: 23-March-2026:
+### List 
+* 234: 23-March-2026:   https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/234-23March2026.md   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-234-23-march-2026-4e9o   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-234-23-march?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://www.linkedin.com/pulse/all-data-ai-weekly-234-23-march-2026-tim-spann-cevze    https://medium.com/@tspann/all-data-and-ai-weekly-234-23-march-2026-bf6aa261f5f2  https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-234-23-march-2026  
   
 * 233: 16-March-2026:   https://medium.com/@tspann/all-data-and-ai-weekly-233-16march2026-afbd0d9e47e7   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-233-16march2026-k24   https://www.linkedin.com/pulse/all-data-ai-weekly-233-16march2026-tim-spann-7yfze  https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/233-16March2026.md
   
