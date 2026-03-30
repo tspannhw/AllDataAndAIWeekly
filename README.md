@@ -13,7 +13,7 @@ https://github.com/tspannhw/FLiPStackWeekly
 ### List 
 
 * 235: 30-March-2026:   https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/235-March302026.md   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-235-30march2026?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-235-30march2026-2dcb   https://medium.com/@tspann/all-data-and-ai-weekly-235-30march2026-962307ead351?sk=269d882bdfbe5cbf45be2b9722555a39   https://www.linkedin.com/pulse/all-data-ai-weekly-235-30march2026-tim-spann-j8wge  https://flank.substack.com/p/all-data-and-ai-weekly-235-30march2026  
-
+https://www.linkedin.com/pulse/all-data-ai-weekly-235-30march2026-tim-spann-j8wge
   
 * 234: 23-March-2026:   https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/234-23March2026.md   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-234-23-march-2026-4e9o   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-234-23-march?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://www.linkedin.com/pulse/all-data-ai-weekly-234-23-march-2026-tim-spann-cevze    https://medium.com/@tspann/all-data-and-ai-weekly-234-23-march-2026-bf6aa261f5f2  https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-234-23-march-2026  
   
