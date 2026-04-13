@@ -12,7 +12,10 @@ https://github.com/tspannhw/FLiPStackWeekly
 
 ### List 
 
-* 237: 13-April-2026:  https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/237-13April2026.md 
+
+* 237: 13-April-2026:  https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/237-13April2026.md   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-237-13april2026?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true    https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-237-13april2026   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-237-13april2026-106l  https://medium.com/@tspann/all-data-and-ai-weekly-237-13april2026-5ab5f20023b9  https://medium.com/@saurabh.kr/build-and-run-agent-teams-in-snowflake-cortex-code-cli-part-4-97e836acdc49
+
+  
   
 * 236: 6-april-2026:   https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/236-06April2026.md   https://medium.com/@tspann/all-data-and-ai-weekly-236-06april2026-97240c17029b    https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-236-06-april?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-236-06-april-2026-2dd4  
 
