@@ -12,7 +12,10 @@ https://github.com/tspannhw/FLiPStackWeekly
 
 ### List 
 
-* 240: 04-May-2026:    https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/240-04May2026.md
+* 241: 11-May-2026:    https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/241-11May2026.md
+
+  
+* 240: 04-May-2026:    https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/240-04May2026.md   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-240-04-may-2026-3bf0    https://www.linkedin.com/pulse/all-data-ai-weekly-240-04-may-2026-tim-spann-btztc   https://medium.com/@tspann/all-data-and-ai-weekly-240-04-may-2026-d1aaa1b6b77b  https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-240-04-may?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  
   
 * 239: 27-April-2026:     https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/239-27April2026.md    https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-239-27april2026-2pd0     https://www.linkedin.com/pulse/all-data-ai-weekly-239-27april2026-tim-spann-kxoqc   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-239-27april2026?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://medium.com/@tspann/all-data-and-ai-weekly-239-27-april-2026-34ccec07b574   https://flank.substack.com/p/all-data-and-ai-weekly-239-27april2026?u  
 
