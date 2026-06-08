@@ -12,7 +12,7 @@ https://github.com/tspannhw/FLiPStackWeekly
 
 ### List 
 
-* 245: 08-June-2026:
+* 245: 08-June-2026:   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-245-08-june?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true      https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-245-08-june-2026-5bn1   https://flank.substack.com/p/all-data-and-ai-weekly-245-08-june?r=23guc&utm_campaign=post&utm_medium=web&triedRedirect=true   https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/245-08June2026.md 
 
 * 244: 01-June-2026:  https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/244-01June2026.md     https://www.linkedin.com/pulse/all-data-ai-weekly-244-01-june-2026-tim-spann-qyose    https://medium.com/@tspann/all-data-and-ai-weekly-244-01-june-2026-0edd1761ea30    https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-244-01-june-2026-l1a   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-244-01-june?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-244-01-june-2026?utm_source=hashnode&utm_medium=feed   
   
