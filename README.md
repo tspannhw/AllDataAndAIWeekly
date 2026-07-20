@@ -12,7 +12,7 @@ https://github.com/tspannhw/FLiPStackWeekly
 
 ### List 
 
-* 251: https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/251-20July2026.md
+* 251: https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/251-20July2026.md   https://www.linkedin.com/pulse/all-data-ai-weekly-251-20-july-2026-tim-spann-dwa0e  https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-251-20-july-2026-1cbf  https://www.datainmotion.dev/   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-251-20-july?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-251-20-july-2026  https://medium.com/@tspann/all-data-and-ai-weekly-251-20-july-2026-7acdb4676cd2  
   
 * 250:   https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/250-13July2026.md  https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-250-13-july-2026-4mp   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-250-13-july-2026   https://flank.substack.com/p/all-data-and-ai-weekly-250-13-july   https://www.linkedin.com/pulse/all-data-ai-weekly-250-13-july-2026-tim-spann-i4h2e/?trackingId=5PH67zoRQyKxGU8KHupdGQ%3D%3D   https://medium.com/@tspann/all-data-and-ai-weekly-250-13-july-2026-72dfd17d90b2   
   
